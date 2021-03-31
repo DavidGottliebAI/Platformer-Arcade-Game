@@ -1,0 +1,31 @@
+In this file:
+
+1. Explain briefly what your project does and how it works.
+Our project is a platformer style game in which the player is a knight who must slay all of the zombies.
+The player can move using arrow keys, attack using space bar, pause the game using p and resume using o, and after game over or win, press r to restart game.
+
+2. List the names of the classes in your project.
+Character
+Health_bar
+Platform
+Enemy
+Enemies
+
+3. If working with partner(s), indicate briefly how you divided up the work,
+   that is, who did what?
+   I, Vidhu Naik, worked on the mechanics of the game, such as movement, gravity, animations, player hit detection, and platform detection.
+   I, David Gottlieb, worked on the start screen, pausing mechanics, game over, win screen, health bar, and zombie hit detection
+
+4. List the modules (libraries) that you used (the things in IMPORT statements).
+pygame
+sys
+random
+
+5. Briefly list what things in the project are beyond what you learned
+   from the regular classwork in CSSE 120.  Include the major PyGame features
+   that you used in this list.
+   Animations for the knight movement, zombie movement, and getting hit. (extensive use of the modulo operator)
+   Image loading and sound loading.
+   Getting user input from key presses.
+   Screen manipulation (changing different screens)
+

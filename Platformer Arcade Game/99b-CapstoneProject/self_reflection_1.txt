@@ -1,0 +1,47 @@
+
+PUT YOUR NAME HERE: _________David Gottlieb_______________
+
+NOTE: If you are working by yourself (no teammates), then use this file
+(self_reflection_1.txt).  If you are working with teammates, then the order
+of the names in your team repository determines who uses which of the three
+self_reflection_X.txt files, as per this example:
+   For team     csse120-202110-andersm3-morrisnc-sheerimm
+     -- anderssm3 must use   self_reflection_1.txt
+     -- morrisnc  must use   self_reflection_2.txt
+     -- sheerimm  must use   self_reflection_3.txt
+Another example:
+   For team     csse120-202101-kintnecm-rams-harristj
+     -- kintnecm  must use   self_reflection_1.txt
+     -- rams      must use   self_reflection_2.txt
+     -- harristj  must use   self_reflection_3.txt
+
+Then answer the following questions.
+Answers can be BRIEF, but we expect them to be THOUGHTFUL answers.
+
+1.  Explain, in a sentence or two, something that SURPRISED you
+    after you began working on your project.
+
+    Both the mechanics behind the gravity and the platform detection surprised me. While the final code for this was done by Vidhu, I spent a fair amount of time trying to figure
+    it out myself. I found it especially confusing to work with the x and y coordinates for each sprite, since they start at the top left corner -- my intuition assumes bottom left.
+
+2.  Identify something that you would have done DIFFERENTLY in your project,
+    with hindsight.  Then explain, in a short paragraph, how you did that
+    something (in your actual project), how you would have done it differently,
+    why you would do it differently, and how you would encourage yourself
+    to do it (or its equivalent) differently in future projects.
+
+    In terms of working in a group, communication was lacking at the beginning, since we ended up both working on the enemy class at the same time. This meant time that could
+    have been spent on another tasks was wasted. Next time I'd make it clear what we were working on individually, and if I got stuck I'd ask for a second pair of eyes to look
+    at my code. In terms of the actual coding of the game, I would look at the pygame commands to figure out if I need to hard code any functions or if I can use a built-in
+    command from the API. One of the reasons why I really struggled with the platform detection was because I was attempting to program a function from scratch rather use
+    collision detection. This would have made the process much faster and led to added complexity in the long run.
+
+3.  Identify something that you are particularly PROUD of your work in your
+    project.  Explain, in a short paragraph, what it is, why you are proud
+    of it, and how you will encourage yourself to do it (or its equivalent)
+    similarly in future projects.
+
+    Although it's small, I liked the "buffer" feature. This is an effect seen in a lot of video games and is often referred to as a character's "invincibility frames". This obviously
+    prevents your character from instantly dying, but also gives you a sense of how long you have to recover before being hit again (via the flashing character). You can edit the
+    BUFFER_TIME variable to extend or shorten your recovery. It's more of a quality of life feature rather than one that makes the game run, but this is exactly why I would incorporate
+    something similar to other projects in the future.

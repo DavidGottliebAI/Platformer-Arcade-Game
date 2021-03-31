@@ -1,0 +1,47 @@
+
+PUT YOUR NAME HERE: ____________Vidhu Naik_____________________
+
+NOTE: If you are working by yourself (no teammates), then ignore this file
+(self_reflection_2.txt) and use file   self_reflection_1.txt   instead.
+If you are working with teammates, then the order
+of the names in your team repository determines who uses which of the three
+self_reflection_X.txt files, as per this example:
+   For team     csse120-202110-andersm3-morrisnc-sheerimm
+     -- anderssm3 must use   self_reflection_1.txt
+     -- morrisnc  must use   self_reflection_2.txt
+     -- sheerimm  must use   self_reflection_3.txt
+Another example:
+   For team     csse120-202101-kintnecm-rams-harristj
+     -- kintnecm  must use   self_reflection_1.txt
+     -- rams      must use   self_reflection_2.txt
+     -- harristj  must use   self_reflection_3.txt
+
+Then answer the following questions.
+Answers can be BRIEF, but we expect them to be THOUGHTFUL answers.
+
+1.  Explain, in a sentence or two, something that SURPRISED you
+    after you began working on your project.
+
+    When I first started working on the project, I was surprised how difficult the platform detection was when the gravity was specifically made for the jump, so when the knight jumped on a platform, he couldn't go below it.
+    So then I made it so that the knight is always falling, and if he lands on a platform, he stops falling.
+
+2.  Identify something that you would have done DIFFERENTLY in your project,
+    with hindsight.  Then explain, in a short paragraph, how you did that
+    something (in your actual project), how you would have done it differently,
+    why you would do it differently, and how you would encourage yourself
+    to do it (or its equivalent) differently in future projects.
+
+    Something I would have done differently in my project is I would have made the game scroll to the right similar to Super Mario Bros. Instead what we did was have the character loop back around to the other side of the screen.
+    To make it so that the game would scroll, I would have searched up how to use pycharm to do that, and then I would implement it as such.
+    This would have added a more challenging aspect to the game, so that if the player forgot to kill a zombie, they would have to go back to kill the zombie.
+    To encourage myself to do something similar in future projects, I would set specific times for me to work on the project so that I would have enough time to implement exactly what I want and so that I don't have to make any compromises.
+
+3.  Identify something that you are particularly PROUD of your work in your
+    project.  Explain, in a short paragraph, what it is, why you are proud
+    of it, and how you will encourage yourself to do it (or its equivalent)
+    similarly in future projects.
+
+    I am particularly proud of the gravity because although it ended up being pretty easy to do, figuring it out was excruciating, but fun.
+    This taught me to think things through when I am working on a project and relate it to reality. In reality, we are always falling, due to gravity.
+    We are only stopped by the ground from falling. So I made it so that the knight is always falling, but if he lands on the ground or a platform, he stops.
+    Now in future projects, I will relate what I am doing to reality and think things through when I work on them.
